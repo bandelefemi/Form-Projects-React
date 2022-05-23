@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: "karla", sans-serif;
+}
+
+.discord {
+	width: 200px;
+	height: 30px;
+	padding: 18px;
+	border-radius: 7px;
+	margin:0 0 15px 0;
+	border: 2px solid #d5d3d8;
+}
+
+.signup {
+	width: 40%;
+	border: none;
+	padding: 16px 10px;
+	margin: 25px 0;
+	background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+	border-radius: 5px;
+	color: #d5d3d8;
+	cursor: pointer;
+	transition-duration: 0.4s;
+}
+
+.formData{
+	display: flex;
+	
+
+}
+
+
+form{
+	display: flex;
+	flex-direction: column;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
+	background-color: #E5E5E5;
+	padding: 50px;
+	align-items: center;
+	border-radius: 20px;
+	
+}
