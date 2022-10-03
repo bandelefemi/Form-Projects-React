@@ -17,6 +17,7 @@ function Form(){
 		
 	})
 
+	console.log("this is a fresh change for update purpose")
 
 function handleChange(event) {
 	
@@ -90,7 +91,7 @@ return (
 	
 	/>
 	
-	<label htmlFor="newsLetter"> I want to join the newsletter</label>
+	<label htmlFor="newsLetter"> I want to join the October 2022 newsletter</label>
 	</div>
 	
 	<button className="signup">sign up</button>
